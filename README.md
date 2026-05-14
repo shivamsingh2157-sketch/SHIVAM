@@ -1,2 +1,14 @@
 # SHIVAM
 Project trade
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Webpage</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a basic paragraph of text on a web page.</p>
+</body>
+</html>
